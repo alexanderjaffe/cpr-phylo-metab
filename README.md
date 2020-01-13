@@ -8,7 +8,8 @@ Code describing the main analyses and figure generation are available here in Ju
 
 ```
 * cpr-phylo-meta-public.ipynb - main notebook covering data import, processing, analysis, figures
-* cpr-phylo-R-public.ipynb - notebook covering phylogenetic depth/pathchiness analyses in R```
+* cpr-phylo-R-public.ipynb - notebook covering phylogenetic depth/pathchiness analyses in R
+```
 
 ## /data/
 
