@@ -1,0 +1,193 @@
+supergroup	group	gene	EC	hmm_name	source	published_cutoff	manual_cutoff
+Arsenic metabolism	Arsenite oxidation	arsenite oxidase small		TIGR02694	TIGRFAMs	61	published
+Arsenic metabolism	Arsenite oxidation	arsenite oxidase large		TIGR02693 	TIGRFAMs	357	published
+Arsenic metabolism	Arsenate reduction	arsC		TIGR00014	TIGRFAMs	61	published
+Arsenic metabolism	Arsenate reduction	thioredoxin		TIGR02691	TIGRFAMs	112	trusted
+Arsenic metabolism	Arsenate reduction	glutathione/glutaredoxin type		TIGR02689	TIGRFAMs	113	trusted
+C1 compounds metabolism	Methanol oxidation	pqq EC 1.1.2.7		methanol_dehydrogenase_pqq_xoxF_mxaF	NCOMMS_custom	166	published
+C1 compounds metabolism	Methanol oxidation	NDMA-dependent methanol dehydrogenase EC 1.1.1.244		TIGR04266	TIGRFAMs	400	published
+C1 compounds metabolism	Methyl amine -> formaldehyde	madA		TIGR02659	TIGRFAMs	85	published
+C1 compounds metabolism	Methyl amine -> formaldehyde	madB		TIGR02658 	TIGRFAMs	90	published
+C1 compounds metabolism	Formaldehyde oxidation	fdh thiol-independent type		TIGR02819 	TIGRFAMs	425	published
+C1 compounds metabolism	Formaldehyde oxidation	S-formylglutathione hydrolase		TIGR02821 	TIGRFAMs	131	published
+C1 compounds metabolism	Formaldehyde oxidation	S-(hydroxymethyl)glutathione dehydrogenase		TIGR02818	TIGRFAMs	509	published
+C1 compounds metabolism	Formaldehyde oxidation	S-(hydroxymethyl)mycothiol dehydrogenase		TIGR03451	TIGRFAMs	512	published
+C1 compounds metabolism	Formaldehyde oxidation	fae		TIGR03126	TIGRFAMs	31	trusted
+C1 compounds metabolism	Formaldehyde oxidation	Formylmethanofuran:tetrahyromethanopterin formyltransferase		TIGR03119 	TIGRFAMs	94	published
+C1 compounds metabolism	Formaldehyde oxidation	methenyltetrahydromethanopterin cyclohydrolase		TIGR03120	TIGRFAMs	147	published
+C1 compounds metabolism	Formate oxidation	formate dehydrogenase, alpha subunit		TIGR01591	TIGRFAMs	610	published
+C1 compounds metabolism	Formate oxidation	serA		TIGR01582	TIGRFAMs	152	published
+C1 compounds metabolism	Formate oxidation	formate dehydrogenase, gamma subunit		TIGR01583	TIGRFAMs	56	published
+Carbon fixation	3 Hydroxypropionate cycle	propionyl-CoA synthase		propionyl-CoA-synthase	NCOMMS_custom		400
+Carbon fixation	4 Hydroxypropionate cycle	malonyl-CoA reductase		malonyl-CoA-reductase	NCOMMS_custom		150
+Carbon fixation	3HP/4HB	4-hydroxybutyryl-CoA synthetase		4-hydroxybutyryl-CoA-synthetase	NCOMMS_custom		100
+Carbon fixation	3HP/4HB	4-hydroxybutyryl-CoA dehydratase		4-hydroxybutyryl-CoA-dehydratase	NCOMMS_custom		100
+Carbon fixation	Wood Ljungdahl pathway	codhD (delta)		TIGR00381	TIGRFAMs	197	published
+Carbon fixation	Wood Ljungdahl pathway	codhC (beta)		TIGR00316	TIGRFAMs	355	published
+Carbon fixation	Wood Ljungdahl pathway	codh (catalytic)		TIGR01702	TIGRFAMs	210	published
+Carbon fixation	Reverse TCA cycle	aclA		acetate_citrate_lyase_aclA	NCOMMS_custom	215	209.1
+Carbon fixation	Reverse TCA cycle	aclB		acetate_citrate_lyase_aclB	NCOMMS_custom	177	206.7
+Carbon monoxide metabolism	CO oxidation	coxS		carbon_monoxide_dehydrogenase_coxS	NCOMMS_custom	198	250
+Carbon monoxide metabolism	CO oxidation	coxM		carbon_monoxide_dehydrogenase_coxM	NCOMMS_custom	184	published
+Carbon monoxide metabolism	CO oxidation	coxL		TIGR02416	TIGRFAMs	300	published
+Halogenated compounds	Halogenated compounds breakdown	Haloacid dehydrogenase		TIGR01428	TIGRFAMs	72	trusted
+Halogenated compounds	Halogenated compounds breakdown	Reductive dehalogenase		TIGR02486	TIGRFAMs	132	published
+Halogenated compounds	Perchlorate reduction	pcrA		TIGR03479	TIGRFAMs	559	published
+Halogenated compounds	Perchlorate reduction	pcrB		TIGR03478	TIGRFAMs	319	published
+Halogenated compounds	Chlorite reduction	Chlorite dismutase		PF06778	Pfam	65	published
+Higher C compounds metabolism	TCA cycle	TCA_Citrate_Synthase	2.3.3.1	TIGR01798	TIGRFAMs		trusted
+Higher C compounds metabolism	TCA cycle	TCA_Aconitase	4.2.1.3	TIGR01341	TIGRFAMs		136.4
+Higher C compounds metabolism	TCA cycle	TCA_Isocitrate_DH	1.1.1.42	TIGR00183	TIGRFAMs		206.8
+Higher C compounds metabolism	TCA cycle	TCA_Oxoglutarate_DH_OFOR	1.2.4.2	TIGR00239	TIGRFAMs		trusted
+Higher C compounds metabolism	TCA cycle	TCA_Succinate_CoA_ligase_alpha_subunit	6.2.1.-	TIGR01019	TIGRFAMs		136.2
+Higher C compounds metabolism	TCA cycle	TCA_Succinate_CoA_ligase_beta_subunit	6.2.1.-	TIGR01016	TIGRFAMs		109.8
+Higher C compounds metabolism	TCA cycle	TCA_Fumarate_reductase_separate_flavoprotein	1.3.5.4/1.3.5.1	TIGR01176	TIGRFAMs		346.2
+Higher C compounds metabolism	TCA cycle	TCA_Succinate_Dehydrogenase_Fumarate_reductase_FeS_protein		TIGR00384	TIGRFAMs		trusted
+Higher C compounds metabolism	TCA cycle	TCA_Succinate_Dehydrogenase_Fumarate_reductase_flavoprotein		TIGR01811	TIGRFAMs		236.1
+Higher C compounds metabolism	TCA cycle	TCA_Succinate_Dehydrogenase_Fumarate_reductase_flavoprotein_Gneg		TIGR01812	TIGRFAMs		122
+Higher C compounds metabolism	TCA cycle	TCA_Succinate_dehydrogenase_separate_flavoprotein		TIGR01816	TIGRFAMs		93.2
+Higher C compounds metabolism	TCA cycle	TCA_Succinate_Dehydrogenase_Fumarate_reductase_cytochrome_b_subunit		TIGR02046	TIGRFAMs		trusted
+Higher C compounds metabolism	TCA cycle	TCA_Fumarate_hydratase	4.2.1.2	TIGR00979	TIGRFAMs		trusted
+Higher C compounds metabolism	TCA cycle	TCA_Malate_DH	1.1.1.37	TIGR01763	TIGRFAMs		246.9
+Higher C compounds metabolism	Glycolysis	Glycolysis_glucokinase/hexokinase	2.7.1.2/2.7.1.1	TIGR00749	TIGRFAMs		999
+Higher C compounds metabolism	Glycolysis	Glycolysis_glucokinase/hexokinase	2.7.1.2/2.7.1.1	TIGR00744	TIGRFAMs		999
+Higher C compounds metabolism	Glycolysis	Glycolysis_glucokinase/hexokinase	2.7.1.2/2.7.1.1	PF00349	Pfam		19.7
+Higher C compounds metabolism	Glycolysis	Glycolysis_glucokinase/hexokinase	2.7.1.2/2.7.1.1	PF03727	Pfam		all_significant
+Higher C compounds metabolism	Glycolysis	Glycolysis_ADP_dep_glc_pfk	2.7.1.1/2.7.1.11	PF04587	Pfam		999
+Higher C compounds metabolism	Glycolysis	Glycolysis_GPI	5.3.1.9	PF06560	Pfam		30.2
+Higher C compounds metabolism	Glycolysis	Glycolysis_GPI	5.3.1.9	PF00342	Pfam		30.4
+Higher C compounds metabolism	Glycolysis	Glycolysis_GPI	5.3.1.9	TIGR02128	TIGRFAMs		72.3
+Higher C compounds metabolism	Glycolysis	Glycolysis_Phosphofructokinase	2.7.1.11	TIGR02482	TIGRFAMs		32
+Higher C compounds metabolism	Glycolysis	Glycolysis_fructose_bisphosphate_aldolase	4.1.2.13	PF00274	Pfam		all_significant
+Higher C compounds metabolism	Glycolysis	Glycolysis_fructose_bisphosphate_aldolase	4.1.2.13	PF01116	Pfam		47.6
+Higher C compounds metabolism	Glycolysis	Glycolysis_glyceraldehyde_3_phosphate_DH	1.2.1.12	TIGR01534	TIGRFAMs		31.7
+Higher C compounds metabolism	Glycolysis	Glycolysis_phosphoglyceromutase_PGM	5.4.2.12	TIGR01307	TIGRFAMs		92.9
+Higher C compounds metabolism	Glycolysis	Glycolysis_phosphoglyceromutase_PGM	5.4.2.11	TIGR01258	TIGRFAMs		67.1
+Higher C compounds metabolism	Glycolysis	Glycolysis_phosphoglyceromutase_PGM	5.4.2.11	TIGR00306	TIGRFAMs		60
+Higher C compounds metabolism	Glycolysis	Glycolysis_phosphoglycerate_kinase	2.7.2.3	PF00162	Pfam		19.3
+Higher C compounds metabolism	Glycolysis	Glycolysis_pyruvate_kinase	2.7.1.40	TIGR01064	TIGRFAMs		56.4
+Higher C compounds metabolism	Glycolysis	Glycolysis_enolase	4.2.1.11	TIGR01060	TIGRFAMs		27.8
+Higher C compounds metabolism	Glycolysis	Glycolysis_triose_phosphate_isomerase	5.3.1.1	TIGR00419	TIGRFAMs		47.1
+Higher C compounds metabolism	Gluconeogenesis	Gluconeogenesis_Fructose_1_6_bisphosphatase	3.1.3.11	PF00316	Pfam		40.7
+Higher C compounds metabolism	Gluconeogenesis	Gluconeogenesis_Pep_carboxykinase	4.1.1.49	TIGR00224	TIGRFAMs		20.7
+Higher C compounds metabolism	Gluconeogenesis	Gluconeogenesis_PEP_synthase	2.7.9.2	TIGR01418	TIGRFAMs		591.8
+Higher C compounds metabolism	Acetate metabolism	Acetate_Production_Utilization_Acetate_kinase	2.7.2.1	TIGR00016	TIGRFAMs		59.1
+Higher C compounds metabolism	Acetate metabolism	Acetate_Production_Utilization_pta	2.3.1.8	TIGR00651	TIGRFAMs		all_significant
+Higher C compounds metabolism	Acetate metabolism	Acetate_Production_Utilization_alternate_Acetyl-CoA synthetase	6.2.1.13	TIGR02717	TIGRFAMs		87.7
+Higher C compounds metabolism	Fermentation	Fermentation_Alcohol_DH_Ethanol_Production_class_I	1.1.1.1	TIGR02817	TIGRFAMs		trusted
+Higher C compounds metabolism	Fermentation	Fermentation_Alcohol_DH_Ethanol_Production_class_II		TIGR02822	TIGRFAMs		trusted
+Higher C compounds metabolism	Fermentation	Fermentation_Alcohol_DH_Ethanol_Production_class_III		TIGR02818	TIGRFAMs	509	published
+Higher C compounds metabolism	Fermentation	Fermentation_Formate_Dehydrogenase	1.1.5.6	TIGR01553	TIGRFAMs		noise
+Higher C compounds metabolism	Fermentation	Fermentation_Formate_Dehydrogenase	1.2.1.2	TIGR01591	TIGRFAMs		noise
+Higher C compounds metabolism	Fermentation	Fermentation_Lactate_Dehydrogenase	1.1.1.27	TIGR01771	TIGRFAMs		67
+Higher C compounds metabolism	Pentose Phosphate Pathway: Oxidative Branch	PP_6_phosphogluconate_dehydrogenase	1.1.1.44	TIGR00872	TIGRFAMs		101.5
+Higher C compounds metabolism	Pentose Phosphate Pathway: Oxidative Branch	PP_6_phosphogluconate_dehydrogenase	1.1.1.44	TIGR00873	TIGRFAMs		246.7
+Higher C compounds metabolism	Pentose Phosphate Pathway: Oxidative Branch	PP_6_phosphogluconolactonase	3.1.1.31	TIGR01198	TIGRFAMs		83.3
+Higher C compounds metabolism	Pentose Phosphate Pathway: Oxidative Branch	PP_glucose_6_P_1_dehydrogenase	1.1.1.49	TIGR00871	TIGRFAMs		29.9
+Higher C compounds metabolism	Pentose Phosphate Pathway: Non-Oxidative Branch	PP_ribose_5_P_isomerase	5.3.1.6	TIGR00021	TIGRFAMs		noise
+Higher C compounds metabolism	Pentose Phosphate Pathway: Non-Oxidative Branch	PP_ribose_5_P_isomerase	5.3.1.6	TIGR01120	TIGRFAMs		20.6
+Higher C compounds metabolism	Pentose Phosphate Pathway: Non-Oxidative Branch	PP_ribulose_P_3_epimerase	5.1.3.1	TIGR01163	TIGRFAMs		26
+Higher C compounds metabolism	Pentose Phosphate Pathway: Non-Oxidative Branch	PP_transaldolase	2.2.1.2	TIGR00874	TIGRFAMs		all_significant
+Higher C compounds metabolism	Pentose Phosphate Pathway: Non-Oxidative Branch	PP_transketolase	2.2.1.1	TIGR00232	TIGRFAMs		34
+Higher C compounds metabolism	Pentose Phosphate Pathway: Non-Oxidative Branch	PP_ribose_phosphate_pyrophosphokinase	2.7.6.1	TIGR01251	TIGRFAMs		91.8
+Higher C compounds metabolism	Pentose Phosphate Pathway: Non-Oxidative Branch	PP_Ribokinase	2.7.1.15	TIGR02152	TIGRFAMs		200
+Higher C compounds metabolism	Pyruvate metabolism	Pyruvate_Malic_Enzyme-malate dehydrogenase (oxaloacetate-decarboxylating)	1.1.1.38/1.1.1.39/1.1.1.40	PF00390	Pfam		34.1
+Higher C compounds metabolism	Pyruvate metabolism	Pyruvate_metabolism_Phosphoenolpyruvate_carboxylase	4.1.1.49	TIGR00224	TIGRFAMs		20.7
+Higher C compounds metabolism	Pyruvate metabolism	Pyruvate_metabolism_Pyruvate_dehydrogenase	1.2.4.1	TIGR00759	TIGRFAMs		trusted
+Higher C compounds metabolism	Pyruvate metabolism	Pyruvate_PFOR_alpha_subunit	1.2.7.1	TIGR02176	TIGRFAMs		105.8
+Higher C compounds metabolism	Pyruvate metabolism	Pyruvate_phosphate_dikinase_PEP_synthase	2.7.9.2	TIGR01418	TIGRFAMs		591.8
+Higher C compounds metabolism	Pyruvate metabolism	Pyruvate_pyruvate_formate_lyase	2.3.1.54	TIGR01255	TIGRFAMs		90.1
+Higher C compounds metabolism	Nucleotide salvage pathway	Nucleotide_salvage_thymidine_phosphorylase	2.4.2.4	TIGR02643	TIGRFAMs		50.1
+Higher C compounds metabolism	Nucleotide salvage pathway	Nucleotide_salvage_AMP_phosphorylase	2.4.-.-	TIGR03327	TIGRFAMs		68.4
+Higher C compounds metabolism	Nucleotide salvage pathway	Nucleotide_salvage_pathway_Ribose_1_5_bisphosphate_isomerase	5.3.1.29	PF01008	Pfam		72.8
+Higher C compounds metabolism	Nucleotide salvage pathway	RuBisCO		rubisco_form_I	NCOMMS_custom	500	published
+Higher C compounds metabolism	Nucleotide salvage pathway	RuBisCO		rubisco_form_II	NCOMMS_custom	500	published
+Higher C compounds metabolism	Nucleotide salvage pathway	RuBisCO		rubisco_form_II_III	NCOMMS_custom	500	published
+Higher C compounds metabolism	Nucleotide salvage pathway	RuBisCO		rubisco_form_III	NCOMMS_custom	450	all_significant
+Higher C compounds metabolism	Nucleotide salvage pathway	RuBisCO		rubisco_form_IV	NCOMMS_custom		400
+Hydrogen metabolism	FeFe hydrogenase	Group B1/B3		TIGR04105 	TIGRFAMs	380	published
+Hydrogen metabolism	FeFe hydrogenase	Group A		TIGR02512	TIGRFAMs	300	187.4
+Hydrogen metabolism	Ni-Fe Hydrogenase	Group 1		Hydrogenase_Group_1	NCOMMS_custom	411	published
+Hydrogen metabolism	Ni-Fe Hydrogenase	Group 2a		Hydrogenase_Group_2a	NCOMMS_custom	472	published
+Hydrogen metabolism	Ni-Fe Hydrogenase	Group 2b		Hydrogenase_Group_2b	NCOMMS_custom	555	published
+Hydrogen metabolism	Ni-Fe Hydrogenase	Group 3a		Hydrogenase_Group_3a	NCOMMS_custom	368	published
+Hydrogen metabolism	Ni-Fe Hydrogenase	Ni-Fe Hydrogenase Group 3b		Hydrogenase_Group_3b	NCOMMS_custom	303	74.4
+Hydrogen metabolism	Ni-Fe Hydrogenase	Group 3c		Hydrogenase_Group_3c	NCOMMS_custom	575	published
+Hydrogen metabolism	Ni-Fe Hydrogenase	Group 3d		Hydrogenase_Group_3d	NCOMMS_custom	541	published
+Hydrogen metabolism	Ni-Fe Hydrogenase	Ni-Fe Hydrogenase Group 4		Hydrogenase_Group_4	NCOMMS_custom	430	103.2
+Metal metabolism	Metal (Iron/Manganese) oxidation/reduction	mtrA		TIGR03507	TIGRFAMs	60	published
+Metal metabolism	Metal (Iron/Manganese) oxidation/reduction	mtrC		TIGR03509	TIGRFAMs	165	published
+Methane metabolism	Methane oxidation - Partculate methane monooxygenase	pmoA		TIGR03080	TIGRFAMs	92	published
+Methane metabolism	Methane oxidation - Partculate methane monooxygenase	pmoB		TIGR03079	TIGRFAMs	202	published
+Methane metabolism	Methane oxidation - Partculate methane monooxygenase	pmoC		TIGR03078	TIGRFAMs	124	published
+Methane metabolism	Methane oxidation - Soluble methane monoxygenase	mmoB		PF02406	Pfam		trusted
+Methane metabolism	Methane oxidation - Soluble methane monoxygenase	mmoD		TIGR04550	TIGRFAMs		trusted
+Methane metabolism	Methane production	mcr alpha		TIGR03256 	TIGRFAMs	314	published
+Methane metabolism	Methane production	mcr beta		TIGR03257 	TIGRFAMs	173	published
+Methane metabolism	Methane production	mcr gamma		TIGR03259 	TIGRFAMs	171	published
+Nitrile metabolism	Nitrile hydratase	nthA		TIGR01323	TIGRFAMs	239	published
+Nitrile metabolism	Nitrile hydratase	nthB		TIGR03888 	TIGRFAMs	136	published
+Nitrogen metabolism	N2 fixation	Fe only alpha		TIGR01861	TIGRFAMs	873	published
+Nitrogen metabolism	N2 fixation	Fe only beta		TIGR02931 	TIGRFAMs	853	published
+Nitrogen metabolism	N2 fixation	Fe only delta		TIGR02929 	TIGRFAMs	124	published
+Nitrogen metabolism	N2 fixation	Mo-Fe type Alpha		TIGR01282	TIGRFAMs	503	published
+Nitrogen metabolism	N2 fixation	Mo-Fe type beta		TIGR01286 	TIGRFAMs	414	published
+Nitrogen metabolism	N2 fixation	Vanadium-type alpha		TIGR01860 	TIGRFAMs	822	published
+Nitrogen metabolism	N2 fixation	Vanadium-type beta		TIGR02932 	TIGRFAMs	821	published
+Nitrogen metabolism	N2 fixation	Vanadium-type delta		TIGR02930	TIGRFAMs	122	published
+Nitrogen metabolism	N2 fixation	nifH		TIGR01287	TIGRFAMs	261	trusted
+Nitrogen metabolism	Nitrite oxidation	nxrA		nitrite_oxidoreductase_nxrA	NCOMMS_custom	370	published
+Nitrogen metabolism	Nitrite oxidation	nxrB		nitrite_oxidoreductase_nxrB	NCOMMS_custom	252	published
+Nitrogen metabolism	Nitrate reduction	napA		TIGR01706	TIGRFAMs	472	published
+Nitrogen metabolism	Nitrate reduction	napB		PF03892	Pfam	23.9	published
+Nitrogen metabolism	Nitrate reduction	narG		TIGR01580 	TIGRFAMs	600	published
+Nitrogen metabolism	Nitrate reduction	narH		TIGR01660	TIGRFAMs	348	published
+Nitrogen metabolism	Nitrite reduction	cyt c552 small NrfH		TIGR03153	TIGRFAMs	75	published
+Nitrogen metabolism	Nitrite reduction	cyt c552 large NrFA		PF02335	Pfam	57	published
+Nitrogen metabolism	Nitrite reduction	cyt c552 large NrFA		PF02335/TIGR03152	Pfam/TIGRFAMs	576	published
+Nitrogen metabolism	Nitrite reduction	nrfD		TIGR03148 	TIGRFAMs	300	published
+Nitrogen metabolism	Nitrite reduction	NirB		TIGR02374	TIGRFAMs	442	published
+Nitrogen metabolism	Nitrite reduction	NirD		TIGR02378	TIGRFAMs	69	published
+Nitrogen metabolism	Nitrite reduction	nirK		TIGR02376	TIGRFAMs	169	104
+Nitrogen metabolism	Nitrite reduction	nirS		nitrite_reductase_nirS	NCOMMS_custom	200	published
+Nitrogen metabolism	Nitric oxide reduction	norB		nitric_oxide_reductase_norB	NCOMMS_custom	79	published
+Nitrogen metabolism	Nitric oxide reduction	norC		nitric_oxide_reductase_norC	NCOMMS_custom	50	99
+Nitrogen metabolism	Nitrous oxide reduction	nosD		TIGR04247	TIGRFAMs	290	published
+Nitrogen metabolism	Nitrous oxide reduction	nosZ		TIGR04246	TIGRFAMs	550	published
+Nitrogen metabolism	Anammox	hzoA		hydrazine_oxidase_hzoA	NCOMMS_custom	325	published
+Nitrogen metabolism	Anammox	hzsA		hydrazine_synthase_hzsA	NCOMMS_custom	466	published
+Nitrogen metabolism	Octaheme c-type cytochrome Shewanella-type	octR		TIGR04315	TIGRFAMs	325	published
+Oxygen metabolism	Oxygen metabolism - cytochrome c oxidase, caa3-type 	CoxA	1.9.3.1	TIGR02891 	TIGRFAMs	617	published
+Oxygen metabolism	Oxygen metabolism - cytochrome c oxidase, caa3-type 	CoxB	1.9.3.1	TIGR02866	TIGRFAMs	144	published
+Oxygen metabolism	Oxygen metabolism - cytochrome c oxidase, cbb3-type	ccoN		TIGR00780	TIGRFAMs	168	published
+Oxygen metabolism	Oxygen metabolism - cytochrome c oxidase, cbb3-type	ccoO		TIGR00781	TIGRFAMs	62	published
+Oxygen metabolism	Oxygen metabolism - cytochrome c oxidase, cbb3-type	ccoP		TIGR00782	TIGRFAMs	54	published
+Oxygen metabolism	Oxygen metabolism - cytochrome (quinone) oxidase, bo type	CyoA		TIGR01433	TIGRFAMs	218	published
+Oxygen metabolism	Oxygen metabolism - cytochrome (quinone) oxidase, bo type	CyoD		TIGR02847	TIGRFAMs	64	published
+Oxygen metabolism	Oxygen metabolism - cytochrome (quinone) oxidase, bo type	CyoE		TIGR01473 	TIGRFAMs	138	54.8
+Oxygen metabolism	Oxygen metabolism - cytochrome (quinone) oxidase, bd type	CydA		PF01654	Pfam	118	26.8
+Oxygen metabolism	Oxygen metabolism - cytochrome (quinone) oxidase, bd type	CydB		TIGR00203	TIGRFAMs	88	trusted
+Oxygen metabolism	Oxygen metabolism - cytochrome (quinone) oxidase, aa3 type, QoxABCD	QoxA		TIGR01432	TIGRFAMs	204	trusted
+Oxygen metabolism	Oxygen metabolism - cytochrome (quinone) oxidase, aa3 type, QoxABCD	QoxB		TIGR02882 	TIGRFAMs	954	published
+Selenium metabolism	Selenate reduction	ygfM		TIGR03312	TIGRFAMs	87	published
+Selenium metabolism	Selenate reduction	molybdenum-binding subunit		TIGR03313	TIGRFAMs	526	published
+Selenium metabolism	Selenate reduction	YgfK		TIGR03315	TIGRFAMs	354	published
+Sulfur metabolism	Sulfide oxidation	fcc		PF09242	Pfam	266	published
+Sulfur metabolism	Sulfide oxidation	Sqr		sulfide_quinone_oxidoreductase_sqr	NCOMMS_custom	300	published
+Sulfur metabolism	Sulfite reduction	dsrD		PF08679	Pfam	50	published
+Sulfur metabolism	Sulfur oxidation	dsrA		TIGR02064	TIGRFAMs	223	published
+Sulfur metabolism	Sulfur oxidation	dsrB		TIGR02066	TIGRFAMs	205	published
+Sulfur metabolism	Sulfur oxidation	sor		PF07682	Pfam	300	published
+Sulfur metabolism	Sulfur oxidation	sulfur dioxygenase		sulfur_dioxygenase_sdo	NCOMMS_custom	120	999
+Sulfur metabolism	thiosulfate oxidation	soxB		TIGR04486	TIGRFAMs	375	published
+Sulfur metabolism	thiosulfate oxidation	soxY		TIGR04488	TIGRFAMs	125	published
+Sulfur metabolism	thiosulfate oxidation	soxC		TIGR04555	TIGRFAMs	330	published
+Sulfur metabolism	Sulfate reduction	asrA		TIGR02910	TIGRFAMs	223	19.1
+Sulfur metabolism	Sulfate reduction	asrB		TIGR02911 	TIGRFAMs	226	134.5
+Sulfur metabolism	Sulfate reduction	asrC		TIGR02912 	TIGRFAMs	194	published
+Sulfur metabolism	Sulfate reduction	aprA		TIGR02061	TIGRFAMs	326	published
+Sulfur metabolism	Sulfate reduction	sat		TIGR00339	TIGRFAMs	181	all_significant
+Sulfur metabolism	Thiosulfate disproportionation	phsA		thiosulfate_reductase_phsA	NCOMMS_custom	323	published
+Urea metabolism	Urease	ureC		TIGR01792	TIGRFAMs	212	published
+Urea metabolism	Urease	ureB		TIGR00192	TIGRFAMs	40	published
+Urea metabolism	Urease	ureA		TIGR00193	TIGRFAMs	31	published
